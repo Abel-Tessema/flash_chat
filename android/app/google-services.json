@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196937149555",
+    "project_id": "flash-chat-5068c",
+    "storage_bucket": "flash-chat-5068c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196937149555:android:5094eacc174f72b6abce06",
+        "android_client_info": {
+          "package_name": "com.BelaJash.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdUKIjzuSG9QHAT3VTwlLdMhtRv3dS3XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
